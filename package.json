@@ -1,0 +1,15 @@
+{
+    "name": "pump-fun-socket-listener",
+    "version": "1.0.0",
+    "description": "A Node.js application to listen for events from the pump.fun WebSocket server.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Grayson Lim",
+    "license": "MIT",
+    "dependencies": {
+      "socket.io-client": "^4.6.1"
+    }
+  }
+  
